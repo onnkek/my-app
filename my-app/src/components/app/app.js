@@ -8,6 +8,8 @@ import PostAddForm from '../post-add-form';
 import './app.css';
 import './index.css';
 
+const test = 1;
+
 const App = () => {
     return (
         <div className='app'>
